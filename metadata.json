@@ -1,0 +1,6 @@
+{
+  "name": "からくり箱の謎",
+  "description": "5つの美しいギミックパズルを解き明かし、封印された古代の箱を開放する謎解きシミュレーションゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
